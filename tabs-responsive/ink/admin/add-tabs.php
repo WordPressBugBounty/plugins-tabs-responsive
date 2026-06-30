@@ -20,7 +20,7 @@
 					</div>
 					<div style="padding:13px;overflow:hidden; background: #EFEFEF; border-top: 1px dashed #ccc;">
 						<h3 class="text-center pull-left" style="margin-top: 10px;margin-bottom: 10px;font-weight:900">Selected Design</h3>
-						<a type="button"  class="pull-right btn btn-danger design_btn" id="templates_btn1" target="_blank" href="http://demo.wpshopmart.com/tabs-pro-plugin-demo-for-wordpress/" ><?php esc_html_e('Check Demo',wpshopmart_tabs_r_text_domain); ?></a>
+						<a type="button"  class="pull-right btn btn-danger design_btn" id="templates_btn1" target="_blank" href="https://wpshopmart.com/demos/tabs-pro/" ><?php esc_html_e('Check Demo',wpshopmart_tabs_r_text_domain); ?></a>
 							</div>		
 				</div>	
 			</div>
@@ -36,7 +36,7 @@
 					</div>
 					<div style="padding:13px;overflow:hidden; background: #EFEFEF; border-top: 1px dashed #ccc;">
 						<h3 class="text-center pull-left" style="margin-top: 10px;margin-bottom: 10px;font-weight:900">Pro Templates </h3>
-						<a type="button"  class="pull-right btn btn-danger design_btn" id="templates_btn2" target="_blank" href="http://demo.wpshopmart.com/tabs-pro-plugin-demo-for-wordpress/" ><?php esc_html_e('Check Demo',wpshopmart_tabs_r_text_domain); ?></a>
+						<a type="button"  class="pull-right btn btn-danger design_btn" id="templates_btn2" target="_blank" href="https://wpshopmart.com/demos/tabs-pro/" ><?php esc_html_e('Check Demo',wpshopmart_tabs_r_text_domain); ?></a>
 					</div>		
 				</div>	
 			</div>

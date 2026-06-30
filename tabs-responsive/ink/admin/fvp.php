@@ -1,5 +1,5 @@
   <div class="free-vs-pro-tab info-tab-content">
-	<a href="http://demo.wpshopmart.com/tabs-pro-plugin-demo-for-wordpress/" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Tab Pro Plugin',wpshopmart_tabs_r_text_domain); ?></a>
+	<a href="https://wpshopmart.com/demos/tabs-pro/" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Tab Pro Plugin',wpshopmart_tabs_r_text_domain); ?></a>
 	<a href="https://wpshopmart.com/plugins/tabs-pro-plugin/" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Upgrade To Pro',wpshopmart_tabs_r_text_domain); ?></a>
   </div>
   
@@ -125,7 +125,7 @@
 		                    </tr>
 		                    
 		                    <tr class="ti-about-page-text-center">
-		                        <td><a href="http://demo.wpshopmart.com/tabs-pro-plugin-demo-for-wordpress/" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Tabs Pro Demo',wpshopmart_tabs_r_text_domain); ?></a></td>
+		                        <td><a href="https://wpshopmart.com/demos/tabs-pro/" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Tabs Pro Demo',wpshopmart_tabs_r_text_domain); ?></a></td>
 		                    	<td colspan="2"><a href="https://wpshopmart.com/plugins/tabs-pro-plugin/" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Upgrade To Pro',wpshopmart_tabs_r_text_domain); ?></a></td>
 		                    </tr>
 		                </tbody>

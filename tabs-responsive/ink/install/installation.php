@@ -256,7 +256,7 @@ function wpsm_tabs_respnsive_header_info() {
 		}
 		 
 		.wpsm_ac_h_i .btn-danger{
-			font-size: 29px;
+			font-size: 20px;
 			background-color: #000000;
 			border-radius:1px;
 			margin-right:10px;
@@ -265,7 +265,7 @@ function wpsm_tabs_respnsive_header_info() {
 			 
 		}
 		.wpsm_ac_h_i .btn-success{
-			font-size: 28px;
+			font-size: 20px;
 			border-radius:1px;
 			background-color: #ffffff;
 			border-color: #ffffff;
@@ -286,21 +286,20 @@ function wpsm_tabs_respnsive_header_info() {
 		
 		
 		<div class="wpsm_ac_h_i ">
-				<div class="row texture-layer">
-					<div class="col-md-3">
-						<img src="<?php echo esc_url(wpshopmart_tabs_r_directory_url.'assets/images/tab-intro.jpg'); ?>"  class="img-fluid"/>
+				<div class="row texture-layer">				
 					
-					</div>
-				
-					
-					
-					<div class="row col-md-9" style="margin-left: 4px;">
-						<div class="wpsm_ac_h_b col-md-6" style="text-align:left">
-							<a class="btn btn-danger btn-lg " href="https://wpshopmart.com/plugins/tabs-pro-plugin/" target="_blank"><?php esc_html_e('Get Pro Version',wpshopmart_tabs_r_text_domain); ?></a><a class="btn btn-success btn-lg " href="http://demo.wpshopmart.com/tabs-pro-plugin-demo-for-wordpress/" target="_blank"><?php esc_html_e('View Demo',wpshopmart_tabs_r_text_domain); ?></a>
-						</div>								
-						<div class="col-md-6" style="text-align:left">							
-							<h1 style="color:#fff;font-size:34px;font-weight:800;line-height:1.4"><?php esc_html_e('Tabs Pro Plugin Features',wpshopmart_tabs_r_text_domain); ?></h1>							
-						</div>					
+						<div class="row col-md-12">
+							<div class="col-md-3"  style="text-align:left">
+								<img style="max-width:200px" src="<?php echo esc_url(wpshopmart_tabs_r_directory_url.'assets/images/tab-intro.jpg'); ?>"  class="img-fluid"/>							
+							</div>
+							<div class="wpsm_ac_h_b col-md-4" style="text-align:left">
+								<a class="btn btn-danger btn-lg " href="https://wpshopmart.com/plugins/tabs-pro-plugin/" target="_blank"><?php esc_html_e('Get Pro Version',wpshopmart_tabs_r_text_domain); ?></a><a class="btn btn-success btn-lg " href="https://wpshopmart.com/demos/tabs-pro/" target="_blank"><?php esc_html_e('View Demo',wpshopmart_tabs_r_text_domain); ?></a>
+							</div>								
+							<div class="col-md-4" style="text-align:left">							
+								<h1 style="color:#fff;font-size:30px;font-weight:800;line-height:1.4;margin:0px"><?php esc_html_e('Tabs Pro Plugin Features',wpshopmart_tabs_r_text_domain); ?></h1>							
+							</div>	
+						</div>
+										
 					
 						<div class="row col-md-12" style="padding-bottom:20px;margin-left: 5px;">
 								<div class="col-md-3 pad-o">
@@ -344,7 +343,7 @@ function wpsm_tabs_respnsive_header_info() {
 								</div>
 						</div>	
 						
-					</div>	
+				
 														
 				</div>
 		
